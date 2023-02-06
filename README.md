@@ -7,4 +7,4 @@ Deployed on the Tencent Cloud，Database design and script export with PowerDesi
 
 Click to visit: http://124.222.72.151/search/
 
-Example:lyzzzzzzD
+Example:lyzzzzzz
